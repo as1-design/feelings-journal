@@ -1,0 +1,15 @@
+{
+  "name": "Feelings journal",
+  "short_name": "Feelings",
+  "description": "An evening check-in for the feelings of the day, with the seven chakras.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1c1030",
+  "theme_color": "#1c1030",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
