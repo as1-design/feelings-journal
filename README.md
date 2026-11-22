@@ -12,6 +12,7 @@ An evening check-in: choose the feelings that filled the day, write when, why an
 | `manifest.json` | lets the phone install it |
 | `sw.js` | makes it work offline (change `CACHE` on every upload) |
 | `icon-192.png`, `icon-512.png` | home-screen icons |
+| `garden/` (folder, 43 pictures) | the painted garden: one picture per season and time of day, plus the visitors, flowers, walkers, boat and lanterns. Upload the whole folder. |
 | `apps-script.gs` | the Google Sheet connector (pasted into Apps Script, not used by the page) |
 
 ## Google Sheet (optional)
